@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "title": "Ad Title 1",
+      "description": "This is the description for ad 1.",
+      "cta": "LEARN MORE",
+      "image": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "background": "#f0f0f0"
+    },
+    {
+      "id": 2,
+      "title": "Ad Title 2",
+      "description": "This is the description for ad 2.",
+      "cta": "LEARN MORE",
+      "image": "https://images.pexels.com/photos/3194521/pexels-photo-3194521.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "background": "#f0f0f0"
+    }
+  ]
+  
